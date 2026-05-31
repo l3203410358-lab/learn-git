@@ -5,4 +5,3 @@ This is line 2.
 -- modified by conflict-branch
 line A
 line B
-line C
