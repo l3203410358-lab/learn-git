@@ -3,3 +3,4 @@ This is line 2.
 
 ==== modified by master ====
 -- modified by conflict-branch
+line A
